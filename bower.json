@@ -1,0 +1,14 @@
+{
+  "name": "resume",
+  "version": "0.0.1",
+  "description": "Giancarlo Veronese resume",
+  "authors": [
+    "Ricardo Veronese Ricci"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0",
+    "masonry": "~3.3.2"
+  }
+}
