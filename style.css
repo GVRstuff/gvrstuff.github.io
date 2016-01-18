@@ -128,8 +128,8 @@ sm {
 #headerwrap {
   text-align: center;
   width: 100%;
+  background-image: url('img/header-pattern.jpg');
   padding: 40px 0;
-
 }
 #headerwrap .row.centered {
   margin-top: 30px;
