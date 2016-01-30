@@ -128,7 +128,7 @@ sm {
 #headerwrap {
   text-align: center;
   width: 100%;
-  background-image: url('img/header-pattern.jpg');
+  background-image: url('img/header-pattern.png');
   padding: 40px 0;
 }
 #headerwrap .row.centered {
@@ -171,7 +171,7 @@ sm {
 /*education*/
 #education {  
   background: #fff;
-  background-image: url('img/education-pattern.jpg');
+  background-image: url('img/education-pattern.png');
   color: #00414A;
   padding-top: 60px;
   padding-bottom: 60px;
@@ -378,7 +378,7 @@ sm {
 }
 /*portfolio hover effects*/
 #portfolio .grid-item .portfolio-content-more {
-  background-color: #00414A;
+  background-color: rgba(0, 0, 0, 0.9);
   color: #fff;
   width: auto;
   height: auto;
@@ -397,7 +397,7 @@ sm {
   -webkit-transform-origin: center center;
        -o-transform-origin: center center;
       -ms-transform-origin: center center;
-  border: solid 1px #122A43;
+  border: solid 1px #000;
   text-align: center;
 }
 .transit {
