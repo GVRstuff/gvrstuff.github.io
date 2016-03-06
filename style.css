@@ -161,6 +161,7 @@ sm {
 }
 #about p {
   font-size: 18px;
+  text-align: justify;
 }
 #about p:last-child {
   margin-bottom: 0;
